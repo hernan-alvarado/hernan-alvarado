@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @alvaradohernan
-- 👀 I’m interested in learning JavaScript
+- 👋 Hi, I’m Hernán Alvarado.
+- 👀 I’m interested in learning JavaScript.
 - 🌱 I’m currently learning to be a Full Stack JavaScript Dev.
