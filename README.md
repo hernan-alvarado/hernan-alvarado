@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hernán Alvarado.
 - 👀 I’m learning JavaScript, CSS & HTML.
-- 🌱 Full Stack JavaScript Dev in process.
+
