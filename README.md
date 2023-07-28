@@ -3,10 +3,10 @@
 - Relational Database: PostgreSQL.
 - CSS Framework: Bootstrap.
 
- |Languages |Frameworks|
- |----------|----------|
- |JavaScript|  Node.js |          
- |   CSS    | Bootstrap| 
+ |Languages |Framework|
+ |----------|---------|
+ |JavaScript| Node.js |          
+ |   CSS    |Bootstrap| 
 
 
 
