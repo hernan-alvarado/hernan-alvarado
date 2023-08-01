@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Hernán Alvarado.
+- 👋 Hi, I’m **Hernán Alvarado**.
 - 👀 I’m learning JavaScript, CSS & HTML.
-- Relational Database: PostgreSQL.
-- CSS Framework: Bootstrap.
 
  |Languages |Framework|
  |----------|---------|
- |JavaScript| Node.js |          
- |   CSS    |Bootstrap| 
+ |**JavaScript**| **Node.js** |          
+ |   **CSS**    |**Bootstrap**| 
+|   **RDBMS**    |**PostgreSQL**| 
 
 
 
