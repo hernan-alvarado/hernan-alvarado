@@ -6,6 +6,6 @@ Hi, I’m **Hernán Alvarado**.
  |----------|---------|
  |**JavaScript**| **Node.js** |          
  |   **CSS**    |**Bootstrap**| 
-|   **RDBMS**    |**PostgreSQL**| 
+|   **Database**    |**PostgreSQL**| 
 
 
